@@ -30,12 +30,6 @@ I'm **Hrishi Sharma**, a passionate **Robotics & AI Engineer** with a knack for 
 ![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6F00.svg?style=for-the-badge&logo=Gazebo&logoColor=white)  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)  
 
-## 📊 GitHub Stats  
-
-[![Hrishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrishiSharma&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrishiSharma&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
-
 ## 🌐 Let's Connect!  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishi-sharma26)   
