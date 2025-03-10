@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hello, folks! 👋  
 
-<!--
-**hrishisharma/hrishisharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=HrishiSharma&label=Profile+Views)  
 
-Here are some ideas to get you started:
+Glad to see you here! 🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Hrishi Sharma**, a passionate **Robotics & AI Engineer** with a knack for developing **autonomous systems**, **path planning algorithms**, and **robotic control mechanisms**. My interests lie in **robotics software development**, **machine learning**, and **simulation environments**—where I love bringing intelligent systems to life!  
+
+## 🚀 What I Work On  
+- **Autonomous Drones & Mobile Robots** – Developing real-time navigation and control using **ROS2, Gazebo, and PID tuning**  
+- **Path Planning & Motion Control** – Implementing algorithms like **RRT, A*, Dubins curves** for obstacle avoidance  
+- **Machine Learning & AI** – Exploring **ensemble learning, deep learning, and computer vision**  
+- **Hardware & Embedded Systems** – Integrating **servo controls, smart locks, and robotic arms**  
+
+## 🛠 Tech Stack  
+
+### **Languages**  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+
+#### **AI & Robotics**  
+![ROS](https://img.shields.io/badge/ROS-%23000.svg?style=for-the-badge&logo=ROS&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=OpenCV&logoColor=white)  
+
+#### **Development Tools**  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=Git&logoColor=white)  
+![Gazebo](https://img.shields.io/badge/Gazebo-%23FF6F00.svg?style=for-the-badge&logo=Gazebo&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)  
+
+## 📊 GitHub Stats  
+
+[![Hrishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrishiSharma&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrishiSharma&layout=compact&hide_progress=true&theme=github_dark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+
+## 🌐 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hrishi-sharma26)   
+
+💬 **Have an exciting robotics or AI project in mind? Let's build something amazing together!**  
+
+---
